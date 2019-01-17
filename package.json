@@ -1,0 +1,22 @@
+{
+  "name": "node-test-api",
+  "version": "1.0.0",
+  "description": "REST API service that uploads and store archived text documents.",
+  "main": "server.js",
+  "scripts": {
+    "test": "testMe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Belarus/Node-test-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Belarus/Node-test-API/issues"
+  },
+  "homepage": "https://github.com/Nick-Belarus/Node-test-API#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
